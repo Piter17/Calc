@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Win32Project5", "Win32Project5\Win32Project5.vcxproj", "{6886A5E8-030A-45E7-8D56-8E2069FAF836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6886A5E8-030A-45E7-8D56-8E2069FAF836}.Debug|x64.ActiveCfg = Debug|x64
+		{6886A5E8-030A-45E7-8D56-8E2069FAF836}.Debug|x64.Build.0 = Debug|x64
+		{6886A5E8-030A-45E7-8D56-8E2069FAF836}.Debug|x86.ActiveCfg = Debug|Win32
+		{6886A5E8-030A-45E7-8D56-8E2069FAF836}.Debug|x86.Build.0 = Debug|Win32
+		{6886A5E8-030A-45E7-8D56-8E2069FAF836}.Release|x64.ActiveCfg = Release|x64
+		{6886A5E8-030A-45E7-8D56-8E2069FAF836}.Release|x64.Build.0 = Release|x64
+		{6886A5E8-030A-45E7-8D56-8E2069FAF836}.Release|x86.ActiveCfg = Release|Win32
+		{6886A5E8-030A-45E7-8D56-8E2069FAF836}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://piter17.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Win32Project5\\Win32Project5.vcxproj
+		SccProjectName1 = Win32Project5
+		SccLocalPath1 = Win32Project5
+	EndGlobalSection
+EndGlobal
